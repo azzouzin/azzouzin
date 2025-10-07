@@ -11,10 +11,10 @@ Hi Im Azzouz Merouani a Flutter Developer from Algeria
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=azzouzin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdtYTU0MmY2bWlnZzA0YjZkODkwanljbmJ1dWdlY2sydmwwMm5rZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OCqzpPVXOR5LbEEQbs/giphy.gif" width="400" alt="coding gif"/>
+</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=azzouzin&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdtYTU0MmY2bWlnZzA0YjZkODkwanljbmJ1dWdlY2sydmwwMm5rZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OCqzpPVXOR5LbEEQbs/giphy.gif" width="600" alt="coding gif"/>
-</div>
