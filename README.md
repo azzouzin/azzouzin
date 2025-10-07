@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi Im Azzouz Merouani a Flutter Developer from Algeria
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Merouani Azzouz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azzouzmr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Merouani Azzouz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azzouzmerw@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/merouani.azzouz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azzouzmr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azzouz-merouani-923222283) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azzouzmerw@gmail.com) 
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
@@ -13,7 +13,7 @@ Hi Im Azzouz Merouani a Flutter Developer from Algeria
 ### ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-  <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdtYTU0MmY2bWlnZzA0YjZkODkwanljbmJ1dWdlY2sydmwwMm5rZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OCqzpPVXOR5LbEEQbs/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3l4bXZxaWp2YzA0aHU0MGNxNnh3amNubmFvdzc0bjQwN2t5dmRrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SnVZO1N0Wo6u4/giphy.gif)" width="400" alt="coding gif"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3l4bXZxaWp2YzA0aHU0MGNxNnh3amNubmFvdzc0bjQwN2t5dmRrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SnVZO1N0Wo6u4/giphy.gif" width="400" alt="coding gif"/>
 </div>
 
 ---
