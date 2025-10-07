@@ -13,7 +13,7 @@ Hi Im Azzouz Merouani a Flutter Developer from Algeria
 ### ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3l4bXZxaWp2YzA0aHU0MGNxNnh3amNubmFvdzc0bjQwN2t5dmRrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SnVZO1N0Wo6u4/giphy.gif" width="400" alt="coding gif"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXV4NGRrc2s4aWYwaHowazh2ejBrazVvdjNqd3FvZ3g2ejJlcTUzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4SdFG1BbqiJEI/giphy.gif" width="400" alt="coding gif"/>
 </div>
 
 ---
